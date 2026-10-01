@@ -6,19 +6,16 @@
 
 ---
 
-## Consulta 1 - Nomes no Brasil (IBGE)
-
-### Primeiro nome
+### Consulta 1A - Primeiro nome (IBGE)
 
 (resposta)
 
-### Segundo nome
+### Consulta 1B - Segundo nome (IBGE)
 
 (resposta)
 
 ---
 
-## Consulta 2 - CEP no BrasilAPI
+### Consulta 2 - CEP no BrasilAPI
 
 (resposta)
-
