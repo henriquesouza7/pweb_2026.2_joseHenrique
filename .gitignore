@@ -1,0 +1,30 @@
+# Build e artefatos
+target/
+build/
+out/
+dist/
+node_modules/
+
+# Logs
+log/
+logs/
+*.log
+
+# Java
+*.class
+*.jar
+*.war
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+bin/
+
+# Sistema
+.DS_Store
+Thumbs.db
